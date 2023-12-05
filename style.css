@@ -1,0 +1,85 @@
+*{
+    margin-top: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-around;
+}
+.nav .menu{
+    margin-right: 150px;
+}
+.nav .menu a{
+    margin-right: 20px;
+    text-decoration: none;
+    color: black;
+}
+.nav .menu a span{
+    color: blue;
+}
+ .content h1{
+    margin-top: 89px;
+    
+}
+.content .button{
+    background: blue;
+    color: white;
+    padding: 7px 30px;
+    border: none;
+}
+.teks{
+    margin-top: 0px;
+}
+.hero{
+    margin-top: 90px;
+    padding-bottom: 0px;
+    background: yellow;
+}
+.hero .item{
+    display: flex;
+    justify-content: center;
+}
+.item1,.item2,.item3{
+    margin-left: 10px;
+    margin-right: 50px;
+    margin-top: 70px;
+    margin-bottom: 100px;
+}
+.teks1{
+    margin-left: 80px;
+    margin-top: -30px;
+}
+.teks2{
+    margin-left: 67px;
+    margin-top: -30px;
+}
+.teks3{
+    margin-left: 85px;
+    margin-top: -20px;
+}
+.navbar2{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+.navbar2 .pilihan{
+    margin-right: 100px;
+}
+.navbar2 .pilihan a{
+    margin-left: 15px;
+    color: #c4c4c4      ;
+}
+.pilihan button{
+    border: none;
+    background: white;
+    box-shadow: 5px 8px 5px 0px rgba(128, 128, 128, 0.897);
+}
+.pilihan a{
+    text-decoration: none;
+    color: black;
+}
+.main-content{
+    margin-top: 40px;
+}
